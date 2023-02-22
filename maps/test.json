@@ -274,7 +274,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"tilemop.png",
+         "image":"..\/..\/..\/Desktop\/tilemop.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -287,7 +287,7 @@
         {
          "columns":8,
          "firstgid":2,
-         "image":"TX Tileset Grass.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Tileset Grass.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -300,7 +300,7 @@
         {
          "columns":16,
          "firstgid":66,
-         "image":"TX Tileset Wall.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Tileset Wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -313,7 +313,7 @@
         {
          "columns":16,
          "firstgid":322,
-         "image":"TX Plant.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Plant.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -324,77 +324,19 @@
          "tiles":[
                 {
                  "id":66,
-                 "objectgroup":
-                    {
-                     "draworder":"index",
-                     "id":2,
-                     "name":"",
-                     "objects":[
-                            {
-                             "class":"",
-                             "height":0,
-                             "id":1,
-                             "name":"",
-                             "polygon":[
-                                    {
-                                     "x":0,
-                                     "y":0
-                                    }, 
-                                    {
-                                     "x":0.250015625976623,
-                                     "y":0.125007812988312
-                                    }, 
-                                    {
-                                     "x":-0.625039064941559,
-                                     "y":15.8759922495156
-                                    }, 
-                                    {
-                                     "x":-1.12507031689481,
-                                     "y":21.6263516469779
-                                    }, 
-                                    {
-                                     "x":1.75010938183637,
-                                     "y":24.0015000937559
-                                    }, 
-                                    {
-                                     "x":7.37546096631039,
-                                     "y":24.3765235327208
-                                    }, 
-                                    {
-                                     "x":9.87561722607663,
-                                     "y":21.251328208013
-                                    }, 
-                                    {
-                                     "x":10.2506406650416,
-                                     "y":13.625851615726
-                                    }, 
-                                    {
-                                     "x":9.25057816113507,
-                                     "y":12.8758047377961
-                                    }, 
-                                    {
-                                     "x":8.87555472217013,
-                                     "y":-0.750046877929871
-                                    }],
-                             "rotation":0,
-                             "visible":true,
-                             "width":0,
-                             "x":11.2507031689481,
-                             "y":0.750046877929871
-                            }],
-                     "opacity":1,
-                     "type":"objectgroup",
-                     "visible":true,
-                     "x":0,
-                     "y":0
-                    }
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32
         }, 
         {
          "columns":16,
          "firstgid":578,
-         "image":"TX Struct.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Struct.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -407,7 +349,7 @@
         {
          "columns":16,
          "firstgid":834,
-         "image":"TX Props.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Props.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -420,7 +362,7 @@
         {
          "columns":8,
          "firstgid":1090,
-         "image":"TX Tileset Stone Ground.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Tileset Stone Ground.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -433,7 +375,7 @@
         {
          "columns":16,
          "firstgid":1154,
-         "image":"TX Shadow.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Shadow.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -447,7 +389,7 @@
         {
          "columns":16,
          "firstgid":1410,
-         "image":"TX Shadow Plant.png",
+         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Shadow Plant.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
