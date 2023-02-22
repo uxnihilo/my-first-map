@@ -263,7 +263,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"..\/..\/..\/Desktop\/tilemop.png",
+         "image":"tilemop.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -276,7 +276,7 @@
         {
          "columns":8,
          "firstgid":2,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Tileset Grass.png",
+         "image":"TX Tileset Grass.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -289,7 +289,7 @@
         {
          "columns":16,
          "firstgid":66,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Tileset Wall.png",
+         "image":"TX Tileset Wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -302,7 +302,7 @@
         {
          "columns":16,
          "firstgid":322,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Plant.png",
+         "image":"TX Plant.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -315,7 +315,7 @@
         {
          "columns":16,
          "firstgid":578,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Struct.png",
+         "image":"TX Struct.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -328,7 +328,7 @@
         {
          "columns":16,
          "firstgid":834,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Props.png",
+         "image":"TX Props.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -341,7 +341,7 @@
         {
          "columns":8,
          "firstgid":1090,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Tileset Stone Ground.png",
+         "image":"TX Tileset Stone Ground.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -354,7 +354,7 @@
         {
          "columns":16,
          "firstgid":1154,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Shadow.png",
+         "image":"TX Shadow.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -368,7 +368,7 @@
         {
          "columns":16,
          "firstgid":1410,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Shadow Plant.png",
+         "image":"TX Shadow Plant.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
