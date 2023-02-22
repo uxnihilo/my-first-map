@@ -274,7 +274,7 @@
         {
          "columns":1,
          "firstgid":1,
-         "image":"..\/..\/..\/Desktop\/tilemop.png",
+         "image":"tilemop.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -394,7 +394,7 @@
         {
          "columns":16,
          "firstgid":578,
-         "image":"..\/..\/..\/Downloads\/Pixel Art Top Down - Basic\/Texture\/TX Struct.png",
+         "image":"TX Struct.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
